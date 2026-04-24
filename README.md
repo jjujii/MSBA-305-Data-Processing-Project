@@ -544,9 +544,3 @@ ORDER BY hour_of_day, borough;
 - **Data retention:** Define policies for quarantine table cleanup
 - **Access control:** Use Fabric workspace roles (Viewer, Editor, Admin)
 
----
-
-**Last Updated:** April 2026  
-**Project:** MSBA 305 — Data Engineering with Microsoft Fabric  
-**Architecture:** Medallion (Bronze → Silver → Gold)  
-**Status:** Production-ready

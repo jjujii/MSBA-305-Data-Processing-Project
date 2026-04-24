@@ -248,7 +248,7 @@ Gold_v1__1_.ipynb
 
 ---
 
-## 🔍 Data Dictionary
+##  Data Dictionary
 
 ### Bronze Tables
 
@@ -537,7 +537,7 @@ ORDER BY hour_of_day, borough;
 
 ---
 
-## 🔐 Security & Privacy
+##  Security & Privacy
 
 - **No PII storage:** 311 data contains location (lat/lon) and dates, but no names or contact info
 - **API keys:** If storing API credentials, use Fabric Secrets (not shown in notebooks)
